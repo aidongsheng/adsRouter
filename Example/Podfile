@@ -1,11 +1,6 @@
-use_frameworks!
+source 'https://github.com/aidongsheng/adsSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
 
 target 'adsRouter_Example' do
   pod 'adsRouter', :path => '../'
-
-  target 'adsRouter_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

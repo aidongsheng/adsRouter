@@ -1,0 +1,22 @@
+{
+  "name": "adsRouter",
+  "version": "0.0.1",
+  "summary": "iOS 路由模块",
+  "description": "TODO: iOS 路由模块",
+  "homepage": "https://github.com/aidongsheng/adsRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aidongsheng": "coding_ai@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/aidongsheng/adsRouter.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "adsRouter/Classes/**/*.{h,m}"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - adsRouter (0.0.1)
+
+DEPENDENCIES:
+  - adsRouter (from `../`)
+
+EXTERNAL SOURCES:
+  adsRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  adsRouter: 9320a13d390188cb234f99d245f0915053ccd7ae
+
+PODFILE CHECKSUM: cd7274581f29cc7ccef251c3b65ca0c23758d2e3
+
+COCOAPODS: 1.2.1
