@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # adsRouter
 
 [![CI Status](http://img.shields.io/travis/aidongsheng/adsRouter.svg?style=flat)](https://travis-ci.org/aidongsheng/adsRouter)
@@ -27,3 +28,6 @@ aidongsheng, coding_ai@qq.com
 ## License
 
 adsRouter is available under the MIT license. See the LICENSE file for more info.
+=======
+# adsRouter
+>>>>>>> 43cede878144ef1924700071ec6d2e54dbd89b61
