@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'adsRouter_Example' do
+  pod 'adsRouter', :path => '../'
+
+  target 'adsRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
